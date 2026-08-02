@@ -1,25 +1,142 @@
-# 💫 About Me:
-<br><br>Hi there, I'm Manthan Kadhare! 👋<br><br>I'm a passionate Computer Science Engineering (CSE) student with a deep interest in technology and software development. I enjoy building innovative projects, exploring AI, and contributing to the open-source community.<br><br>🚀 Skills<br><br>Programming Languages: Python, C, C++, Java, JavaScript, HTML, CSS<br><br>Technologies & Tools: Django, AI/ML, Web Development<br><br>Areas of Interest: AI-powered systems, Open-Source Collaboration, Smart Applications<br><br>🌱 Currently Learning<br><br>Advanced AI Techniques<br><br>Building interactive web applications<br><br>📫 How to Reach Me<br><br>Email: manthankadhare@gmail.com<br><br>💡 Fun Fact<br><br>I'm always excited to work on creative projects that blend technology and innovation!
+# Hi there, I'm Manthan Kadhare 👋
 
+### 🎓 Computer Engineering Student | 📊 Aspiring Data Analyst | 🤖 AI Enthusiast
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/onlythemanthan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlythemanthan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manthankadhare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manthankadhare@gmail.com) 
+I'm a **Computer Engineering student** passionate about transforming raw data into meaningful insights and building intelligent solutions. My primary interests are **Data Analytics, Business Intelligence, Artificial Intelligence, and Data Visualization**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManthanKadhare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ManthanKadhare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanKadhare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ManthanKadhare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I enjoy solving real-world problems through data, creating interactive dashboards, automating workflows with Python, and continuously learning new technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ManthanKadhare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@manthankadhare18) 
+## 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🎓 Pursuing **Bachelor of Engineering (Computer Engineering)**
+* 📊 Aspiring **Data Analyst / Business Intelligence Analyst**
+* 💡 Interested in **Data Analytics, AI, Machine Learning, and Business Intelligence**
+* 📈 Passionate about turning data into actionable insights
+* 🌱 Currently learning **Advanced Excel, SQL, Power BI, Python, Statistics, and Data Visualization**
+* 🤝 Open to **Internships, Freelance Projects, and Open-Source Contributions**
+
+---
+
+# 💻 Tech Stack
+
+### 📊 Data Analytics
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### 📈 Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Excel Charts](https://img.shields.io/badge/Excel_Charts-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Microsoft Excel
+* SQL for Data Analytics
+* Power BI Dashboard Development
+* Python for Data Analysis
+* Statistics for Data Science
+* Machine Learning Fundamentals
+* Data Visualization Best Practices
+
+---
+
+# 📂 Featured Projects
+
+### 🏥 Hospital Patient Lifetime Data Management & Analytics System
+
+A complete healthcare analytics project built using **Excel, SQL, Python, Pandas, and Power BI**, featuring patient records, billing, appointments, prescriptions, dashboards, and analytics.
+
+---
+
+### 📊 Interactive Power BI Dashboards
+
+Developing professional dashboards for:
+
+* Sales Analysis
+* HR Analytics
+* Finance Analytics
+* Healthcare Analytics
+* Business Performance Monitoring
+
+---
+
+### 🤖 AI & Automation Projects
+
+Working on AI-powered applications integrating Python, APIs, automation, and intelligent analytics.
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ManthanKadhare\&theme=tokyonight\&hide_border=true\&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ManthanKadhare\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanKadhare\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ManthanKadhare\&theme=tokyonight\&no-frame=true\&margin-w=15)
+
+---
+
+# 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/manthankadhare)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/onlythemanthan)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/onlythemanthan)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:manthankadhare@gmail.com)
+
+---
+
+## 📫 Contact
+
+* 📧 **Email:** [manthankadhare@gmail.com](mailto:manthankadhare@gmail.com)
+* 💼 **LinkedIn:** https://linkedin.com/in/manthankadhare
+
+---
+
+## 💡 Quote
+
+> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
+
+---
+
+![](https://visitcount.itsvg.in/api?id=ManthanKadhare\&icon=5\&color=12)
