@@ -1,21 +1,29 @@
-# Hi there, I'm Manthan Kadhare 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Manthan Kadhare
 
-### 🎓 Computer Engineering Student | 📊 Aspiring Data Analyst | 🤖 AI Enthusiast
+<h3 align="center">
+🎓 Computer Engineering Student • 📊 Aspiring Data Analyst • 🤖 AI Enthusiast
+</h3>
 
-I'm a **Computer Engineering student** passionate about transforming raw data into meaningful insights and building intelligent solutions. My primary interests are **Data Analytics, Business Intelligence, Artificial Intelligence, and Data Visualization**.
-
-I enjoy solving real-world problems through data, creating interactive dashboards, automating workflows with Python, and continuously learning new technologies.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+Developer;Business+Intelligence+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Pursuing **Bachelor of Engineering (Computer Engineering)**
-* 📊 Aspiring **Data Analyst / Business Intelligence Analyst**
-* 💡 Interested in **Data Analytics, AI, Machine Learning, and Business Intelligence**
-* 📈 Passionate about turning data into actionable insights
-* 🌱 Currently learning **Advanced Excel, SQL, Power BI, Python, Statistics, and Data Visualization**
-* 🤝 Open to **Internships, Freelance Projects, and Open-Source Contributions**
+- 🎓 Bachelor of Engineering (Computer Engineering)
+- 📊 Aspiring **Data Analyst / Business Intelligence Analyst**
+- 💡 Passionate about Data Analytics, AI & Automation
+- 📈 Love turning raw data into meaningful insights
+- 🌱 Currently learning:
+  - Microsoft Excel (Advanced)
+  - SQL
+  - Power BI
+  - Python
+  - Statistics
+  - Data Visualization
+- 🤝 Looking for Data Analytics Internship Opportunities
 
 ---
 
@@ -23,120 +31,158 @@ I enjoy solving real-world problems through data, creating interactive dashboard
 
 ### 📊 Data Analytics
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+</p>
 
-### 📈 Visualization
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Excel Charts](https://img.shields.io/badge/Excel_Charts-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+---
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,flask"/>
+</p>
 
-### 💻 Programming Languages
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+</p>
+
+---
 
 ### ☁️ Cloud & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,azure"/>
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-* Advanced Microsoft Excel
-* SQL for Data Analytics
-* Power BI Dashboard Development
-* Python for Data Analysis
-* Statistics for Data Science
-* Machine Learning Fundamentals
-* Data Visualization Best Practices
+- Advanced Excel
+- SQL for Analytics
+- Power BI Dashboard Development
+- Python for Data Analysis
+- Statistics
+- Machine Learning Basics
+- Business Intelligence
 
 ---
 
 # 📂 Featured Projects
 
-### 🏥 Hospital Patient Lifetime Data Management & Analytics System
+## 🏥 Hospital Patient Lifetime Data Management System
 
-A complete healthcare analytics project built using **Excel, SQL, Python, Pandas, and Power BI**, featuring patient records, billing, appointments, prescriptions, dashboards, and analytics.
-
----
-
-### 📊 Interactive Power BI Dashboards
-
-Developing professional dashboards for:
-
-* Sales Analysis
-* HR Analytics
-* Finance Analytics
-* Healthcare Analytics
-* Business Performance Monitoring
+- Excel Dashboard
+- SQL Database
+- Python Data Analysis
+- Power BI Dashboard
+- Healthcare Analytics
 
 ---
 
-### 🤖 AI & Automation Projects
+## 📊 Power BI Dashboards
 
-Working on AI-powered applications integrating Python, APIs, automation, and intelligent analytics.
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ManthanKadhare\&theme=tokyonight\&hide_border=true\&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ManthanKadhare\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanKadhare\&layout=compact\&theme=tokyonight\&hide_border=true)
+- Sales Dashboard
+- HR Analytics
+- Finance Dashboard
+- Healthcare Dashboard
 
 ---
 
-# 🏆 GitHub Trophies
+## 🤖 AI & Automation
 
-![](https://github-profile-trophy.vercel.app/?username=ManthanKadhare\&theme=tokyonight\&no-frame=true\&margin-w=15)
-
----
-
-# 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/manthankadhare)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/onlythemanthan)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/onlythemanthan)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:manthankadhare@gmail.com)
+- AI-powered applications
+- Python automation
+- Intelligent analytics
 
 ---
 
-## 📫 Contact
+# 📊 GitHub Statistics
 
-* 📧 **Email:** [manthankadhare@gmail.com](mailto:manthankadhare@gmail.com)
-* 💼 **LinkedIn:** https://linkedin.com/in/manthankadhare
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManthanKadhare&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ManthanKadhare&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanKadhare&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 💡 Quote
+# 📈 Contribution Graph
 
-> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
+[![Manthan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManthanKadhare&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=ManthanKadhare\&icon=5\&color=12)
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/manthankadhare/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/onlythemanthan">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/onlythemanthan">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:manthankadhare@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 Email: **manthankadhare@gmail.com**
+
+💼 LinkedIn:
+**https://www.linkedin.com/in/manthankadhare/**
+
+---
+
+# 💡 Quote
+
+> *"Without data, you're just another person with an opinion."*
+> **— W. Edwards Deming**
+
+---
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=ManthanKadhare&icon=5&color=12"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
