@@ -1,11 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Manthan Kadhare
 
 <h3 align="center">
-🎓 Computer Engineering Student • 📊 Aspiring Data Analyst • 🤖 AI Enthusiast
+🎓 Computer Engineering Student • 📊 Aspiring AI Engineer • 🤖 AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+Developer;Business+Intelligence+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Power+BI+%7C+SQL;Python+Developer;Business+Intelligence+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
